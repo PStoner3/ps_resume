@@ -10,3 +10,28 @@
 .med-hr {
   border-width: 2px;
 }
+
+.med-jumbotron {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  margin-bottom: 10px;
+  vertical-align: middle;
+  color: inherit;
+  font-size: 18px;
+  font-weight: 200;
+  max-width: 100%;
+  background-color: #eee;
+}
+
+.em {
+  font-weight: bolder;
+}
+
+.row-div {
+  height: 5000px;
+  overflow: hidden;
+}
+
+.return {
+  font-size: 12px;
+}
